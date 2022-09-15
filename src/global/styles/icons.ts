@@ -5,6 +5,7 @@ import CameraIcon from '../../assets/icons/camera.svg';
 import LogoIcon from '../../assets/icons/logo.svg';
 import IgtvIcon from '../../assets/icons/igtv.svg';
 import SaveIcon from '../../assets/icons/save.svg';
+
 import ProfileIcon from '../../assets/people/1.png';
 
 export {
